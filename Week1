@@ -1,0 +1,34 @@
+- 0708(MON)
+    🛠 Tools 
+      Google Colab , sublime.text, Github/Git
+      Python, Slack, VSCode
+
+    📖 Study
+      ▶ Python 설치 및 개발환경구축
+      ▶ Git 설치 및 Github readme.md 꾸미기
+          → 추가 수정 필요
+          → 마크다운 학습
+      ▶ VSCode 설치
+          ⓐ Python 확장 팩 설치
+          ⓑ Korean Language Pack 설치
+          ⓒ Live Server 설치
+          ⓓ Live Preview 설치 
+      ▶ Google Colab 사용
+          → 처음 접해보는 프로그램
+            사용법 공부 必
+
+- 0709(TUE)
+    🛠 Tools 
+        Google Colab으로 교육
+
+    📖 Study
+      # 이름을 작성하기 위한 규칙 - 네이밍 컨벤션(convention)
+      path = 'my documents'
+
+      my-documents # kebab-case (URL 만들 때 주로 사용)
+      my_documents # snake_case (Python에서 주로 사용)
+      myDocumentsFolder # camelCase (java에서 주로 사용)
+
+      # 클래스와 일반변수와 구분하기 위해서 변수 첫 글자는 소문자로 시작함
+      # 클래스는 첫 글자 대문자로 시작
+      MyClass # PascalCase
