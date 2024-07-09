@@ -1,4 +1,4 @@
-- 0708(MON)
+### 🌨 0708(MON)
     🛠 Tools 
       Google Colab , sublime.text, Github/Git
       Python, Slack, VSCode
@@ -17,7 +17,8 @@
           → 처음 접해보는 프로그램
             사용법 공부 必
 
-- 0709(TUE)
+### 🌦 0709(TUE)
+
     🛠 Tools 
         Google Colab으로 교육
 
