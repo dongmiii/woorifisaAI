@@ -16,6 +16,7 @@
       ▶ Google Colab 사용
           → 처음 접해보는 프로그램
             사용법 공부 必
+---
 
 ### 🌦 0709(TUE)
 
@@ -54,8 +55,27 @@ del str # del명령어로 str 변수 삭제
           ③ 키만으로 자료를 관리하는 집합(Set)형
 
 
+---
 
-      
+### 🌤 0710(WED)
+
+      # 조건문
+          ① if문 
+          ② match - case문
+          
+```python
+match 변수 or 값:
+    case 값:
+       실행문
+ex)
+ask = input('어깨를 돌리셨습니까 ? ')
+match ask : # ask에 뭐가 있는지 보자
+    case 'Y': # True일 때
+        print('Good')
+    case _: # False 일 때 나머지 모든 상황 표현
+        print('no')
+```
+    
 
       
 
