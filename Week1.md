@@ -13,7 +13,7 @@
           ⓑ Korean Language Pack 설치
           ⓒ Live Server 설치
           ⓓ Live Preview 설치 
-      ▶ Google Colab 사용
+      ▶ Google Colab 💡
           → 처음 접해보는 프로그램
             사용법 공부 必
 ---
@@ -118,11 +118,26 @@ match ask : # ask에 뭐가 있는지 보자
     case _: # False 일 때 나머지 모든 상황 표현
         print('no')
 ```
+       # Python의 반복문
+           ① while
+           ② for
 
 ---
 
 ### 🌥 0711(THU)
 
-      
+        💡 """ """ or ''' ''' - 멀티라인으로 감싸주면 원본 스트링을 그대로 저장함
+        
+        # 문자열의 메소드
+            -> 문자열 : 튜플형태, 문자들이 여러개로 줄 서 있는 것!
+
+        # Collections ❗
+        # 정규표현식 ❗
+
+        # 함수(function)
+
+---
+
+### 🌥 0712(FRI)
 
       
