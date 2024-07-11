@@ -144,8 +144,7 @@ match ask : # ask에 뭐가 있는지 보자
             음성 tts 기능? 
             NLP
            글에서 원하는 텍스트 추출
-
-wordCloud? 
+           wordCloud? 
 ---
 
 ### 🌥 0712(FRI)
