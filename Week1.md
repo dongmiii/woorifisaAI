@@ -112,6 +112,18 @@ match ask : # ask에 뭐가 있는지 보자
                 False인 경우가 나올 때까지 실행(False면 종료)
            ② for : 반복 범위 
                 범위는 range() 주로 사용
+       
+       # break, continue
+           break : 반복의 횟수를 줄임 (탈출)
+           continue : 반복의 횟수를 줄이지 않고 남은 부분을 생략하는 것 
+           
+       # 이중 for문
+```python
+for i in [1,2]:
+    for j in ['a','b','c']:
+        print(j * i, end ='')
+=> a b c aa bb cc
+```
 
 ---
 
@@ -152,10 +164,26 @@ match ask : # ask에 뭐가 있는지 보자
 
 ### ☁ 0712(FRI)
 
-        시퀀스자료형
+        시퀀스 타입
+            list - mutable 객체(안에 있는 값을 변경시킬 수 있는 객체)
+            list : 값 추가, 삭제 가능 []
+            tuple - immutable 객체(안에 있는 값을 수정할 수 없음, 문자열)
+            tuple : 값 추가, 삭제 불가 () -> 참조만을 위한 값을 다룰 때 주로 사용
+            range(범위)
+```python
+list(range(1,5))
+=> 해당 범위를 lsit형태로 반환 [1,2,3,4]
+
+list("Hello")
+=> 문자를 다 쪼개서 list로 반환 ['H', 'e', 'l', 'l', 'o']
+
+range(1,10,2) # 1부터 10 이전까지 2씩 증가하는 range
+# range 범위 거꾸로 지정하기
+range(10,2,-1) # 10부터 1씩 감소하여 3까지 이르는 정수들
+```            
+            
         딕셔너리
         스트링 함수, 포맷형식
-        반복문
         함수
         지역변수 global 키워드
         파이썬 수학 관련 함수(min,max,sum,sorted..)
