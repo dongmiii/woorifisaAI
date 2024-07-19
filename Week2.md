@@ -26,4 +26,6 @@
 ---
 
 ### ⛅ 0719(FRI)
+	Matplotlib 
+	Seaborn 
       
