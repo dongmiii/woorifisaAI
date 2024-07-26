@@ -24,5 +24,8 @@
 
 ---
 
-### ⛅ 0726(FRI)
+### 🌦 0726(FRI)
+	mysql
+	subquery
+	DML
 
