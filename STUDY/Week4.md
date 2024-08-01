@@ -14,12 +14,14 @@
 ---
 
 ### 🌤 0731(WED)
-
+	pymysql
+	ai Assistant
 
 ---
 
 ### 🌤 0801(THU)
-
+	streamlit 프로젝트
+	docker
 
 ---
 
