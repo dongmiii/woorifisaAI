@@ -23,3 +23,4 @@
 
 ### 🌞 0816(FRI)
 	kibana
+ 	Logstash, Filebeat
