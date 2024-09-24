@@ -8,7 +8,8 @@
     DL - Pytorch
 ---
 
-### 🌞 0925(WED)
+### 🌤 0925(WED)
+    DL - Pytorch
     
 ---
 
