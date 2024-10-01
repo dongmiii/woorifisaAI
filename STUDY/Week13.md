@@ -4,7 +4,7 @@
 ---
 
 ### 🌧 1001(TUE)
-    DL
+    Transformer, RAG
 ---
 
 ### 🌤 1002(WED)
