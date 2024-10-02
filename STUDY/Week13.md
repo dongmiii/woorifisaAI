@@ -7,11 +7,13 @@
     Transformer, RAG
 ---
 
-### 🌤 1002(WED)
-    
+### 🌞 1002(WED)
+    Transformer
+    AirFlow
 ---
 
 ### 🌞 1003(THU)
+    -
 ---
 
 ### 🌞 1004(FRI)
